@@ -1,0 +1,22 @@
+.selectButton{
+    display: inline-block;
+	width: 24%;
+	height: 3.25rem;
+	border: 1px solid #FFFEBA ;
+	border-radius: 32px;
+    background-color: transparent;
+	color: #FFFEBA ;
+	font-weight: 600;
+	font-size: 0.875rem;
+	line-height: 0;
+	cursor: pointer;
+	transition: all 0.4s;
+}
+.selectButton:hover{
+    background-color: #FFFEBA ;
+	color: #010141;
+}
+.selectUser{
+    width: 100%;
+    margin-bottom: 20px;
+}
